@@ -4,15 +4,15 @@ Welcome to the Face Authorization API, an efficient and secure backend system fo
 
 # API Structure
 # Endpoints
-Add Facial Features
+1. Add Facial Features
 Method: POST
 Endpoint: /addFacialFeatures
 Description: Adds new facial features to the database.
-Face Identification
+2. Face Identification
 Method: POST
 Endpoint: /faceIdentification
 Description: Compares input facial features with those in the database for identification and authentication purposes.
-Get Emotion
+3. Get Emotion
 Method: POST
 Endpoint: /getEmotion
 Description: Extracts the emotion from the input face image (currently under development).
