@@ -18,7 +18,7 @@ mongo.on('error', function (err) {
 });
 // 开启
 mongo.once('open', function () {
-    logger.info("mongo is opened");
+    logger.info("mongo is opened | 0e2s");
 });
 
 fs.readdirSync(__dirname)
