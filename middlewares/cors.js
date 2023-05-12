@@ -2,7 +2,7 @@
 
 const corsHandler = {
     origin: function (ctx) {
-        if (ctx.url === '/test') {
+        if (ctx.url === '/exp') {
             // 配置不运行跨域的接口地址
             return false;
         }
