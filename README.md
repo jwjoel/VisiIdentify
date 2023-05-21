@@ -1,7 +1,7 @@
 # Face Auth Backend
 
 ## Overview
-Welcome to the Face Authorization API, an efficient and secure backend system for facial recognition and authentication. This project uses the PCA (Principal Component Analysis) algorithm to extract facial features and stores the data in MongoDB for further authentication purposes. Additionally, the emotion detection feature is under development and utilizes Azure API.
+An efficient and secure backend system for facial recognition and authentication. This project uses the PCA (Principal Component Analysis) algorithm to extract facial features and stores the data in MongoDB for further authentication purposes. Additionally, the emotion detection feature is under development and utilizes Azure API.
 
 ## API Structure
 
